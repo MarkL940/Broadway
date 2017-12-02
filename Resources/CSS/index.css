@@ -12,21 +12,6 @@ body {
     text-align: center;
     color: white;
 }
-
-.box2 {
-  display: inline-block;
-  width: 200px;
-  height: 100px;
-  margin: 1em;
-}
-
-.box3 {
-  display: inline-block;
-  width: 200px;
-  height: 100px;
-  margin: 1em;
-}
-
 h1 {
   text-align: center;
   height: 70px;
@@ -44,9 +29,27 @@ h3 {
 }
 h4 {
   height: 14px;
+  font-weight: normal;
 }
 
 .process {
   align-items: center;
   text-align: center;
+}
+.footer {
+  text-align: left;
+  background-color: dimgrey;
+  font-size: 11px;
+  color: white;
+
+}
+.btn-nav {
+  font-size: 18px;
+  color: white;
+}
+.supporting {
+  text-align: center;
+}
+.supporting h3 {
+  font-weight: bold;
 }
